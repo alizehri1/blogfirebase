@@ -1,0 +1,21 @@
+{
+  "name": "blogfire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "webpack --mode development"
+
+  },
+  "keywords": [],
+  "author": "Ali",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^10.4.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
